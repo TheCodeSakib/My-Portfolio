@@ -1,6 +1,6 @@
 import SocialLink from "@/components/SocialLink";
 import Statistics from "@/components/Statistics";
-import resume from "../assets/resume.pdf";
+
 import { Download } from "lucide-react";
 import Photo from "../components/Photo";
 
