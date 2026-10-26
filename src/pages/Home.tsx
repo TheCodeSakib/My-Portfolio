@@ -1,5 +1,6 @@
 import SocialLink from "@/components/SocialLink";
 import Statistics from "@/components/Statistics";
+import resume from "../assets/resume.pdf";
 import { Download } from "lucide-react";
 import Photo from "../components/Photo";
 
@@ -36,7 +37,7 @@ export default function Home() {
                 <span className="absolute inset-0 rounded-full p-[1px] bg-gradient-to-r from-pink-500 via-yellow-500 to-purple-500 animate-borderSpin"></span>
 
                 {/* Inner background */}
-                <a className=" text-sky/80 tracking-wide text-sm " href={"/2.pdf"} download>
+                <a className=" text-sky/80 tracking-wide text-sm " href={"/resume.pdf"} download>
                   <span className="relative flex items-center gap-3 rounded-full bg-bg px-3.5 py-1.5 transition">
                     Download cv <Download className="w-4 h-4" />
                   </span>
