@@ -15,7 +15,7 @@ const projectData = {
 
 export const Work = () => {
   return (
-    <section className="bg-[#08070B] text-white py-16 px-4 md:px-12 lg:px-24 min-h-screen flex flex-col justify-center">
+    <section className="bg-[#08070B] text-white py-16 px-4 md:px-12 lg:px-24 min-h-screen flex flex-col justify-center pt-25">
       {/* Section Header */}
       <div className="text-center mb-16">
         <div className="flex items-center justify-center gap-2 mb-2">

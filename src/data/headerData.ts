@@ -6,6 +6,7 @@ export const NavbarData = {
   Navbar: [
     { name: "Home", href: "/" },
     { name: "Services", href: "/services" },
+    { name: "Skills", href: "/skills" },
     { name: "Work", href: "/work" },
     { name: "Contact", href: "/contact" },
   ],

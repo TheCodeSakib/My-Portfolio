@@ -15,7 +15,7 @@ export default function Header() {
 
   return (
     <>
-      <header className="border-b border-b-hover/20 py-2.5  fixed top-0 left-0 w-full z-50 bg-opacity-90 backdrop-blur-sm ">
+      <header className="border-b border-b-hover/20 py-2.5  fixed top-0 left-0 w-full z-25 bg-opacity-40 backdrop-blur-sm ">
         <div className="container ">
           <div className=" flex items-center justify-between">
             {/* Logo */}
