@@ -1,29 +1,19 @@
-import { Facebook, Github, Instagram, Linkedin, Twitter } from "lucide-react";
+import { Facebook, Github, Linkedin } from "lucide-react";
 
 export const SocialData = [
   {
     name: "Facebook",
-    link: "https://www.facebook.com/sakib.dev",
+    link: "https://www.facebook.com/mdsakibalhasan74",
     icon: Facebook,
   },
   {
     name: "Github",
-    link: "https://github.com/sakib-dev",
+    link: "https://github.com/TheCodeSakib",
     icon: Github,
   },
   {
     name: "Linkedin",
-    link: "https://www.linkedin.com/in/sakib-dev/",
+    link: "https://www.linkedin.com/in/sakib-ahmed-84909b40a/?isSelfProfile=true",
     icon: Linkedin,
-  },
-  {
-    name: "Twitter",
-    link: "https://twitter.com/sakib_dev",
-    icon: Twitter,
-  },
-  {
-    name: "Instagram",
-    link: "https://www.instagram.com/sakib_dev/",
-    icon: Instagram,
   },
 ];
